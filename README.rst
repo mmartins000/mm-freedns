@@ -9,3 +9,5 @@ mm-FreeDNS
 		:alt: Build: passing
 		
 This shell script allows you to update FreeDNS hosts using a config file and switches to provide username and password (or hash).
+
+For more information see `How-to <https://github.com/mmartins000/mm-freedns/wiki/How-to>`_.
